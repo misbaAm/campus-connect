@@ -13,7 +13,7 @@
 - Member 2: [Dhilna.p] - [KAHM UNITY WOMENS COLLEGE MANGERI]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://github.com/misbaAm/campus-connect
 
 ### Project Description
 [campus connect is centralized web platform that brings all college events into one place. it allows organizers to publish verified events while students can discover,filter,and track events based on their intersts.the system reduces missed opportunities by using smart filtering,remainders,and real time countowns]
@@ -83,15 +83,9 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
-
-![c:\Users\HP\Pictures\Screenshots\Screenshot 2026-02-14 085723.png](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![c:\Users\HP\Pictures\Screenshots\Screenshot 2026-02-14 090023.png](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![c:\Users\HP\Pictures\Screenshots\Screenshot 2026-02-14 090258.png](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1xswEC0VbkhoqxNUD9EqXJJktxZz8doQE/view?usp=drive_link
+https://drive.google.com/file/d/1LMWePSIvEevMRzIvS5PwmbiJdvd8iSng/view?usp=drive_link
+https://drive.google.com/file/d/1yuh_h-g9Tx7bZXGLuSzo95QkXnbtFYMV/view?usp=drive_link
 
 #### Diagrams
 
