@@ -83,13 +83,9 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
-https://drive.google.com/file/d/1xswEC0VbkhoqxNUD9EqXJJktxZz8doQE/view?usp=drive_link
-
-
-https://drive.google.com/file/d/1LMWePSIvEevMRzIvS5PwmbiJdvd8iSng/view?usp=drive_link
-
-
-https://drive.google.com/file/d/1yuh_h-g9Tx7bZXGLuSzo95QkXnbtFYMV/view?usp=drive_link
+screenshot1: https://drive.google.com/file/d/1xswEC0VbkhoqxNUD9EqXJJktxZz8doQE/view?usp=drive_link
+screenshot2: https://drive.google.com/file/d/1LMWePSIvEevMRzIvS5PwmbiJdvd8iSng/view?usp=drive_link
+screenshot3: https://drive.google.com/file/d/1yuh_h-g9Tx7bZXGLuSzo95QkXnbtFYMV/view?usp=drive_link
 
 #### Diagrams
 
